@@ -51,4 +51,3 @@ python ann.py
 📈 Results
 The model's performance is evaluated using a confusion matrix and an accuracy score. (You can update this section with your final accuracy score once you finish training the model, e.g., "The model achieved an accuracy of 86% on the test data.")
 
-📜 License
